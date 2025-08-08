@@ -6,6 +6,9 @@
 *.swp
 .buildlog/
 .history
+/build/
+.dart_tool/
+/pubspec.lock
 
 
 
